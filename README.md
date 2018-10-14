@@ -9,7 +9,7 @@ This repository is a build of original [x-mondrian by @rolandbouman](https://git
 I did not changed anything in original x-mondrian pages.  
 
 ## How to use
-Just clone this repository, and build it with maven:  
+Just clone this repository, and build it with maven & jdk 8:  
 ```bash
 mvn clean package
 ```
