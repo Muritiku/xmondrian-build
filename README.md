@@ -1,5 +1,5 @@
 # Xmondrian-updated
-**by Anton Dziavitsyn 2018**
+**by Anton Dziavitsyn 2018**  
 **[based on original xmondrian by @rolandbouman](https://github.com/rpbouman/xmondrian)**
 
 (current version use mondrian-8.0.0.2-R, and olap4j-1.2.0)
