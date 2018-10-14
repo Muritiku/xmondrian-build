@@ -1,4 +1,4 @@
-# Xmondrian-updated
+# xmondrian-build (xmondrian with updated libs)
 **by Anton Dziavitsyn 2018**  
 **[based on original xmondrian by @rolandbouman](https://github.com/rpbouman/xmondrian)**
 
